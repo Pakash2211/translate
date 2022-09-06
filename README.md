@@ -11,7 +11,7 @@
 
 ## Tech Stack
 
--React.js
+- React.js
 - CSS 3
 - Javascript
 

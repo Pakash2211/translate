@@ -1,7 +1,7 @@
 <h1>Language Translator App</h1>
 
 <h2>A Solo project built by me within 1 day.</h2>
-<p>Language Translator App allow to ypu to translate text one language to other language.
+<p>Language Translator App allow to you to translate text one language to other language.
 <br>
 
 ## Features :
